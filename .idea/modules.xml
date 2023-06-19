@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cjsstraining.iml" filepath="$PROJECT_DIR$/.idea/cjsstraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-appn-validations.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-appn-validations.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-datajpa-mapping-appn.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-datajpa-mapping-appn.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-project-with-sequence-generator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-project-with-sequence-generator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-rest-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-rest-api.main.iml" />
+    </modules>
+  </component>
+</project>
