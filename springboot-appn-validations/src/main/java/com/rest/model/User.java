@@ -19,7 +19,6 @@ public class User {
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "mysequence")
 //    @GeneratedValue(generator = "uuid")
     private int id;
-
     private String name;
 
     private String email;
